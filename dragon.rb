@@ -1,40 +1,40 @@
-# Author: Matthew Palomar
-# Date: 9/17/15
+# Author:                   Matthew Palomar
+# Date:                     9/17/15
 
-# Description: An interesting dragon example.
+# Description:              An interesting dragon example.
 
-# Example from Terminal: 'dragon.rb'
+# Example from Terminal:    'ruby dragon.rb'
 /
-Balerion is born.
-You feed Balerion.
-You toss Balerion up into the air.
-He giggles, which singes your eyebrows.
-You take Balerion for a walk.
-You put Balerion to bed.
-Balerion snores, filling the room with smoke...
-Balerion snores, filling the room with smoke...
-Balerion snores, filling the room with smoke...
-Balerion slowly wakes up.
-You rock Balerion gently.
-He briefly dozes off...
-... but wakes when you stop.
-You put Balerion to bed.
-Balerion snores, filling the room with smoke...
-Balerion wakes up suddenly!
-Balerion's stomach grumbles..
-You put Balerion to bed.
-Balerion snores, filling the room with smoke...
-Balerion wakes up suddenly!
-Balerion's stomach grumbles..
-You put Balerion to bed.
-Balerion snores, filling the room with smoke...
-Balerion wakes up suddenly!
-Balerion's stomach grumbles..
-Balerion does the potty dance.
-You put Balerion to bed.
-Balerion snores, filling the room with smoke...
-Balerion wakes up suddenly!
-Balerion is starving! In desperation, he ATE YOU!
+                            Balerion is born.
+                            You feed Balerion.
+                            You toss Balerion up into the air.
+                            He giggles, which singes your eyebrows.
+                            You take Balerion for a walk.
+                            You put Balerion to bed.
+                            Balerion snores, filling the room with smoke...
+                            Balerion snores, filling the room with smoke...
+                            Balerion snores, filling the room with smoke...
+                            Balerion slowly wakes up.
+                            You rock Balerion gently.
+                            He briefly dozes off...
+                            ... but wakes when you stop.
+                            You put Balerion to bed.
+                            Balerion snores, filling the room with smoke...
+                            Balerion wakes up suddenly!
+                            Balerion's stomach grumbles..
+                            You put Balerion to bed.
+                            Balerion snores, filling the room with smoke...
+                            Balerion wakes up suddenly!
+                            Balerion's stomach grumbles..
+                            You put Balerion to bed.
+                            Balerion snores, filling the room with smoke...
+                            Balerion wakes up suddenly!
+                            Balerion's stomach grumbles..
+                            Balerion does the potty dance.
+                            You put Balerion to bed.
+                            Balerion snores, filling the room with smoke...
+                            Balerion wakes up suddenly!
+                            Balerion is starving! In desperation, he ATE YOU!
 /
 
 # Dragon class / object
